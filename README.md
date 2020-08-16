@@ -1,0 +1,2 @@
+# COC
+Community Owned Company
